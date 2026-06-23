@@ -1,0 +1,9 @@
+langgraph[all]
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv
+langchain-tavily
+langchain-google-genai
+fastapi
+uvicorn
